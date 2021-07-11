@@ -71,7 +71,7 @@ Enter your log file name (absalute path): ../Downloads/Python/access.log
 
 _# cat apikey.py_ (_Using for api key passing to the script_)
 ```sh
-api = '<enter your apikey from ipstack site>'
+api = '<enter your apikey from ipstack site>'            #<------------------- Replace with your API key where you got from ipstack
 # eg:
 # api = 'a37f9a05417225606d6650e16167'
 ```
