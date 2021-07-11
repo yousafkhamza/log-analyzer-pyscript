@@ -33,8 +33,8 @@ _Steps: (Amazon-Linux)_
 ```sh
 sudo yum install git -y
 sudo yum install python3
-git clone https://github.com/yousafkhamza/log-location-pyscript.git
-cd log-location-pyscript
+git clone https://github.com/yousafkhamza/log-analyzer-pyscript.git
+cd log-analyzer-pyscript
 ```
 ----
 
