@@ -32,6 +32,7 @@ It's a python script for find which IPs are hitting on our servers mostly and th
 _Steps: (Amazon-Linux)_
 ```sh
 sudo yum install git -y
+sudo yum install python3
 git clone https://github.com/yousafkhamza/log-location-pyscript.git
 cd log-location-pyscript
 ```
