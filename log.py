@@ -1,7 +1,6 @@
 import ipstack
 import logparser
 import apikey
-import os
 
 def get_hit(t):
     return t[1]
